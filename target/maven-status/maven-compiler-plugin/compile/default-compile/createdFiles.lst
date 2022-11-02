@@ -1,0 +1,4 @@
+com/example/springbootadmin/config/SpringBootAdminServerConfig.class
+com/example/springbootadmin/SpringBootAdminProjectApplication.class
+com/example/springbootadmin/config/WebMvcConfig.class
+com/example/springbootadmin/config/WebSecurityConfig.class
